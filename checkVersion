@@ -1,0 +1,12 @@
+{
+    "code":1,
+    "data":
+    {
+        "hotFix":
+        {
+            "md5": "56cf48f10e4cf63", 
+            "url": "http://24moli.ygj.com.cn/Public/android/test/mpa_2_2_0.apk"
+            "fixVer": "1"
+        }
+    }
+}
